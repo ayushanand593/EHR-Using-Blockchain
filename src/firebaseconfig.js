@@ -16,12 +16,12 @@ import { signInWithPhoneNumber } from "firebase/auth";
 // Initialize Firebase app
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCG_M0clvwK6mSHCkMeIJcwtnSbWc-L1OI",
-  authDomain: "sdp-s18.firebaseapp.com",
-  projectId: "sdp-s18",
-  storageBucket: "sdp-s18.appspot.com",
-  messagingSenderId: "937119915282",
-  appId: "1:937119915282:web:cbb56108fe1cf5527627cb",
+  apiKey: "Your api key",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Create Firebase Context
